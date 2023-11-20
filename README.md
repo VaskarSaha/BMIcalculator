@@ -1,2 +1,2 @@
 # Project-1
-using Tk Inter 
+Using Tk Inter
